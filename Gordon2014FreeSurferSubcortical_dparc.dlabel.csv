@@ -1,0 +1,353 @@
+Key,Region,Network Name,Network Abbreviation1,Network Abbreviation2,Network Color
+1,1_L_Default,Default Mode,Default,DMN,#e50007
+2,2_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+3,3_L_SMmouth,Somatomotor Lateral (Mouth),SMmouth,SML,#ff7f00
+4,4_L_Default,Default Mode,Default,DMN,#e50007
+5,5_L_Visual,Visual,Visual,VIS,#3a469a
+6,6_L_Default,Default Mode,Default,DMN,#e50007
+7,7_L_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+8,8_L_Visual,Visual,Visual,VIS,#3a469a
+9,9_L_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+10,10_L_Auditory,Auditory,Auditory,AUD,#be4393
+11,11_L_None,No Assignment,None,NON,#c1c0be
+12,12_L_CinguloParietal,Cingulo-Parietal,CinguloParietal,CPT,#006dfe
+13,13_L_RetrosplenialTemporal,Retrosplenial-Temporal,RetrosplenialTemporal,RST,#f3acf5
+14,14_L_RetrosplenialTemporal,Retrosplenial-Temporal,RetrosplenialTemporal,RST,#f3acf5
+15,15_L_Visual,Visual,Visual,VIS,#3a469a
+16,16_L_Visual,Visual,Visual,VIS,#3a469a
+17,17_L_Visual,Visual,Visual,VIS,#3a469a
+18,18_L_None,No Assignment,None,NON,#c1c0be
+19,19_L_None,No Assignment,None,NON,#c1c0be
+20,20_L_Visual,Visual,Visual,VIS,#3a469a
+21,21_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+22,22_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+23,23_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+24,24_L_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+25,25_L_Default,Default Mode,Default,DMN,#e50007
+26,26_L_Default,Default Mode,Default,DMN,#e50007
+27,27_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+28,28_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+29,29_L_Salience,Salience,Salience,SAL,#0a0a08
+30,30_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+31,31_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+32,32_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+33,33_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+34,34_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+35,35_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+36,36_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+37,37_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+38,38_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+39,39_L_SMmouth,Somatomotor Lateral (Mouth),SMmouth,SML,#ff7f00
+40,40_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+41,41_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+42,42_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+43,43_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+44,44_L_Default,Default Mode,Default,DMN,#e50007
+45,45_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+46,46_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+47,47_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+48,48_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+49,49_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+50,50_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+51,51_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+52,52_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+53,53_L_SMmouth,Somatomotor Lateral (Mouth),SMmouth,SML,#ff7f00
+54,54_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+55,55_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+56,56_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+57,57_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+58,58_L_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+59,59_L_SMmouth,Somatomotor Lateral (Mouth),SMmouth,SML,#ff7f00
+60,60_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+61,61_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+62,62_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+63,63_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+64,64_L_Auditory,Auditory,Auditory,AUD,#be4393
+65,65_L_Auditory,Auditory,Auditory,AUD,#be4393
+66,66_L_Auditory,Auditory,Auditory,AUD,#be4393
+67,67_L_Auditory,Auditory,Auditory,AUD,#be4393
+68,68_L_Auditory,Auditory,Auditory,AUD,#be4393
+69,69_L_Auditory,Auditory,Auditory,AUD,#be4393
+70,70_L_Auditory,Auditory,Auditory,AUD,#be4393
+71,71_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+72,72_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+73,73_L_None,No Assignment,None,NON,#c1c0be
+74,74_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+75,75_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+76,76_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+77,77_L_Auditory,Auditory,Auditory,AUD,#be4393
+78,78_L_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+79,79_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+80,80_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+81,81_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+82,82_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+83,83_L_Salience,Salience,Salience,SAL,#0a0a08
+84,84_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+85,85_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+86,86_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+87,87_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+88,88_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+89,89_L_CinguloParietal,Cingulo-Parietal,CinguloParietal,CPT,#006dfe
+90,90_L_Visual,Visual,Visual,VIS,#3a469a
+91,91_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+92,92_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+93,93_L_CinguloParietal,Cingulo-Parietal,CinguloParietal,CPT,#006dfe
+94,94_L_Default,Default Mode,Default,DMN,#e50007
+95,95_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+96,96_L_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+97,97_L_Visual,Visual,Visual,VIS,#3a469a
+98,98_L_Visual,Visual,Visual,VIS,#3a469a
+99,99_L_Visual,Visual,Visual,VIS,#3a469a
+100,100_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+101,101_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+102,102_L_Auditory,Auditory,Auditory,AUD,#be4393
+103,103_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+104,104_L_Auditory,Auditory,Auditory,AUD,#be4393
+105,105_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+106,106_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+107,107_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+108,108_L_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+109,109_L_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+110,110_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+111,111_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+112,112_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+113,113_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+114,114_L_Default,Default Mode,Default,DMN,#e50007
+115,115_L_None,No Assignment,None,NON,#c1c0be
+116,116_L_Default,Default Mode,Default,DMN,#e50007
+117,117_L_Default,Default Mode,Default,DMN,#e50007
+118,118_L_None,No Assignment,None,NON,#c1c0be
+119,119_L_None,No Assignment,None,NON,#c1c0be
+120,120_L_None,No Assignment,None,NON,#c1c0be
+121,121_L_None,No Assignment,None,NON,#c1c0be
+122,122_L_None,No Assignment,None,NON,#c1c0be
+123,123_L_None,No Assignment,None,NON,#c1c0be
+124,124_L_None,No Assignment,None,NON,#c1c0be
+125,125_L_None,No Assignment,None,NON,#c1c0be
+126,126_L_Default,Default Mode,Default,DMN,#e50007
+127,127_L_Default,Default Mode,Default,DMN,#e50007
+128,128_L_None,No Assignment,None,NON,#c1c0be
+129,129_L_None,No Assignment,None,NON,#c1c0be
+130,130_L_RetrosplenialTemporal,Retrosplenial-Temporal,RetrosplenialTemporal,RST,#f3acf5
+131,131_L_Visual,Visual,Visual,VIS,#3a469a
+132,132_L_Visual,Visual,Visual,VIS,#3a469a
+133,133_L_None,No Assignment,None,NON,#c1c0be
+134,134_L_None,No Assignment,None,NON,#c1c0be
+135,135_L_None,No Assignment,None,NON,#c1c0be
+136,136_L_Visual,Visual,Visual,VIS,#3a469a
+137,137_L_Visual,Visual,Visual,VIS,#3a469a
+138,138_L_Visual,Visual,Visual,VIS,#3a469a
+139,139_L_Visual,Visual,Visual,VIS,#3a469a
+140,140_L_Visual,Visual,Visual,VIS,#3a469a
+141,141_L_Visual,Visual,Visual,VIS,#3a469a
+142,142_L_None,No Assignment,None,NON,#c1c0be
+143,143_L_RetrosplenialTemporal,Retrosplenial-Temporal,RetrosplenialTemporal,RST,#f3acf5
+144,144_L_None,No Assignment,None,NON,#c1c0be
+145,145_L_Default,Default Mode,Default,DMN,#e50007
+146,146_L_Default,Default Mode,Default,DMN,#e50007
+147,147_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+148,148_L_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+149,149_L_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+150,150_L_Default,Default Mode,Default,DMN,#e50007
+151,151_L_Default,Default Mode,Default,DMN,#e50007
+152,152_L_Default,Default Mode,Default,DMN,#e50007
+153,153_L_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+154,154_L_Default,Default Mode,Default,DMN,#e50007
+155,155_L_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+156,156_L_Default,Default Mode,Default,DMN,#e50007
+157,157_L_Default,Default Mode,Default,DMN,#e50007
+158,158_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+159,159_L_None,No Assignment,None,NON,#c1c0be
+160,160_L_Auditory,Auditory,Auditory,AUD,#be4393
+161,161_L_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+162,162_R_Default,Default Mode,Default,DMN,#e50007
+163,163_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+164,164_R_SMmouth,Somatomotor Lateral (Mouth),SMmouth,SML,#ff7f00
+165,165_R_Default,Default Mode,Default,DMN,#e50007
+166,166_R_Visual,Visual,Visual,VIS,#3a469a
+167,167_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+168,168_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+169,169_R_Visual,Visual,Visual,VIS,#3a469a
+170,170_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+171,171_R_Auditory,Auditory,Auditory,AUD,#be4393
+172,172_R_None,No Assignment,None,NON,#c1c0be
+173,173_R_CinguloParietal,Cingulo-Parietal,CinguloParietal,CPT,#006dfe
+174,174_R_RetrosplenialTemporal,Retrosplenial-Temporal,RetrosplenialTemporal,RST,#f3acf5
+175,175_R_Visual,Visual,Visual,VIS,#3a469a
+176,176_R_Visual,Visual,Visual,VIS,#3a469a
+177,177_R_Visual,Visual,Visual,VIS,#3a469a
+178,178_R_None,No Assignment,None,NON,#c1c0be
+179,179_R_None,No Assignment,None,NON,#c1c0be
+180,180_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+181,181_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+182,182_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+183,183_R_Salience,Salience,Salience,SAL,#0a0a08
+184,184_R_Default,Default Mode,Default,DMN,#e50007
+185,185_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+186,186_R_Default,Default Mode,Default,DMN,#e50007
+187,187_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+188,188_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+189,189_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+190,190_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+191,191_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+192,192_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+193,193_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+194,194_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+195,195_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+196,196_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+197,197_R_SMmouth,Somatomotor Lateral (Mouth),SMmouth,SML,#ff7f00
+198,198_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+199,199_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+200,200_R_Default,Default Mode,Default,DMN,#e50007
+201,201_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+202,202_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+203,203_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+204,204_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+205,205_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+206,206_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+207,207_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+208,208_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+209,209_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+210,210_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+211,211_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+212,212_R_SMmouth,Somatomotor Lateral (Mouth),SMmouth,SML,#ff7f00
+213,213_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+214,214_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+215,215_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+216,216_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+217,217_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+218,218_R_SMmouth,Somatomotor Lateral (Mouth),SMmouth,SML,#ff7f00
+219,219_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+220,220_R_Default,Default Mode,Default,DMN,#e50007
+221,221_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+222,222_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+223,223_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+224,224_R_Auditory,Auditory,Auditory,AUD,#be4393
+225,225_R_Default,Default Mode,Default,DMN,#e50007
+226,226_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+227,227_R_Auditory,Auditory,Auditory,AUD,#be4393
+228,228_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+229,229_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+230,230_R_Auditory,Auditory,Auditory,AUD,#be4393
+231,231_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+232,232_R_Auditory,Auditory,Auditory,AUD,#be4393
+233,233_R_Auditory,Auditory,Auditory,AUD,#be4393
+234,234_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+235,235_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+236,236_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+237,237_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+238,238_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+239,239_R_Auditory,Auditory,Auditory,AUD,#be4393
+240,240_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+241,241_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+242,242_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+243,243_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+244,244_R_Auditory,Auditory,Auditory,AUD,#be4393
+245,245_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+246,246_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+247,247_R_Salience,Salience,Salience,SAL,#0a0a08
+248,248_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+249,249_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+250,250_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+251,251_R_Visual,Visual,Visual,VIS,#3a469a
+252,252_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+253,253_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+254,254_R_CinguloParietal,Cingulo-Parietal,CinguloParietal,CPT,#006dfe
+255,255_R_Visual,Visual,Visual,VIS,#3a469a
+256,256_R_Visual,Visual,Visual,VIS,#3a469a
+257,257_R_Default,Default Mode,Default,DMN,#e50007
+258,258_R_Visual,Visual,Visual,VIS,#3a469a
+259,259_R_Default,Default Mode,Default,DMN,#e50007
+260,260_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+261,261_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+262,262_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+263,263_R_Visual,Visual,Visual,VIS,#3a469a
+264,264_R_Visual,Visual,Visual,VIS,#3a469a
+265,265_R_Visual,Visual,Visual,VIS,#3a469a
+266,266_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+267,267_R_Visual,Visual,Visual,VIS,#3a469a
+268,268_R_Auditory,Auditory,Auditory,AUD,#be4393
+269,269_R_Auditory,Auditory,Auditory,AUD,#be4393
+270,270_R_SMhand,Somatomotor Medial (Hand),SMhand,SMM,#7dcee3
+271,271_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+272,272_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+273,273_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+274,274_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+275,275_R_DorsalAttn,Dorsal Attention,DorsalAttn,DAT,#25a630
+276,276_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+277,277_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+278,278_R_Default,Default Mode,Default,DMN,#e50007
+279,279_R_Default,Default Mode,Default,DMN,#e50007
+280,280_R_None,No Assignment,None,NON,#c1c0be
+281,281_R_None,No Assignment,None,NON,#c1c0be
+282,282_R_None,No Assignment,None,NON,#c1c0be
+283,283_R_None,No Assignment,None,NON,#c1c0be
+284,284_R_None,No Assignment,None,NON,#c1c0be
+285,285_R_None,No Assignment,None,NON,#c1c0be
+286,286_R_None,No Assignment,None,NON,#c1c0be
+287,287_R_None,No Assignment,None,NON,#c1c0be
+288,288_R_None,No Assignment,None,NON,#c1c0be
+289,289_R_None,No Assignment,None,NON,#c1c0be
+290,290_R_Default,Default Mode,Default,DMN,#e50007
+291,291_R_None,No Assignment,None,NON,#c1c0be
+292,292_R_None,No Assignment,None,NON,#c1c0be
+293,293_R_Visual,Visual,Visual,VIS,#3a469a
+294,294_R_RetrosplenialTemporal,Retrosplenial-Temporal,RetrosplenialTemporal,RST,#f3acf5
+295,295_R_RetrosplenialTemporal,Retrosplenial-Temporal,RetrosplenialTemporal,RST,#f3acf5
+296,296_R_None,No Assignment,None,NON,#c1c0be
+297,297_R_None,No Assignment,None,NON,#c1c0be
+298,298_R_Visual,Visual,Visual,VIS,#3a469a
+299,299_R_Visual,Visual,Visual,VIS,#3a469a
+300,300_R_None,No Assignment,None,NON,#c1c0be
+301,301_R_None,No Assignment,None,NON,#c1c0be
+302,302_R_None,No Assignment,None,NON,#c1c0be
+303,303_R_None,No Assignment,None,NON,#c1c0be
+304,304_R_None,No Assignment,None,NON,#c1c0be
+305,305_R_None,No Assignment,None,NON,#c1c0be
+306,306_R_None,No Assignment,None,NON,#c1c0be
+307,307_R_Visual,Visual,Visual,VIS,#3a469a
+308,308_R_Visual,Visual,Visual,VIS,#3a469a
+309,309_R_Visual,Visual,Visual,VIS,#3a469a
+310,310_R_Visual,Visual,Visual,VIS,#3a469a
+311,311_R_Visual,Visual,Visual,VIS,#3a469a
+312,312_R_None,No Assignment,None,NON,#c1c0be
+313,313_R_RetrosplenialTemporal,Retrosplenial-Temporal,RetrosplenialTemporal,RST,#f3acf5
+314,314_R_None,No Assignment,None,NON,#c1c0be
+315,315_R_Default,Default Mode,Default,DMN,#e50007
+316,316_R_Default,Default Mode,Default,DMN,#e50007
+317,317_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+318,318_R_CinguloOperc,Cingulo Opercular,CinguloOperc,COP,#810080
+319,319_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+320,320_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+321,321_R_Default,Default Mode,Default,DMN,#e50007
+322,322_R_Default,Default Mode,Default,DMN,#e50007
+323,323_R_Default,Default Mode,Default,DMN,#e50007
+324,324_R_Default,Default Mode,Default,DMN,#e50007
+325,325_R_Default,Default Mode,Default,DMN,#e50007
+326,326_R_Default,Default Mode,Default,DMN,#e50007
+327,327_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+328,328_R_FrontoParietal,Fronto-Parietal,FrontoParietal,FPN,#f3e601
+329,329_R_Auditory,Auditory,Auditory,AUD,#be4393
+330,330_R_Auditory,Auditory,Auditory,AUD,#be4393
+331,331_R_Default,Default Mode,Default,DMN,#e50007
+332,332_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+333,333_R_VentralAttn,Ventral Attention,VentralAttn,VAT,#008081
+334,CEREBELLUM_LEFT,Subcortical,Subcortical,SBC,#b7a183
+335,THALAMUS_LEFT,Subcortical,Subcortical,SBC,#b7a183
+336,CAUDATE_LEFT,Subcortical,Subcortical,SBC,#b7a183
+337,PUTAMEN_LEFT,Subcortical,Subcortical,SBC,#b7a183
+338,PALLIDUM_LEFT,Subcortical,Subcortical,SBC,#b7a183
+339,BRAIN_STEM,Subcortical,Subcortical,SBC,#b7a183
+340,HIPPOCAMPUS_LEFT,Subcortical,Subcortical,SBC,#b7a183
+341,AMYGDALA_LEFT,Subcortical,Subcortical,SBC,#b7a183
+342,ACCUMBENS_LEFT,Subcortical,Subcortical,SBC,#b7a183
+343,DIENCEPHALON_VENTRAL_LEFT,Subcortical,Subcortical,SBC,#b7a183
+344,CEREBELLUM_RIGHT,Subcortical,Subcortical,SBC,#b7a183
+345,THALAMUS_RIGHT,Subcortical,Subcortical,SBC,#b7a183
+346,CAUDATE_RIGHT,Subcortical,Subcortical,SBC,#b7a183
+347,PUTAMEN_RIGHT,Subcortical,Subcortical,SBC,#b7a183
+348,PALLIDUM_RIGHT,Subcortical,Subcortical,SBC,#b7a183
+349,HIPPOCAMPUS_RIGHT,Subcortical,Subcortical,SBC,#b7a183
+350,AMYGDALA_RIGHT,Subcortical,Subcortical,SBC,#b7a183
+351,ACCUMBENS_RIGHT,Subcortical,Subcortical,SBC,#b7a183
+352,DIENCEPHALON_VENTRAL_RIGHT,Subcortical,Subcortical,SBC,#b7a183
